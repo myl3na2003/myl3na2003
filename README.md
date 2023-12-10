@@ -22,7 +22,7 @@ Olá! Sou apaixonada por transformar ideias criativas em experiências interativ
 
 ### Como Entrar Em Contato Comigo
 - LinkedIn: [Mylena Santos](http://www.linkedin.com/in/mylena-santos-755b43244)
-- E-mail: seuemail@example.com
+- E-mail: mylena.santos20035@gmail.com
 
 ### Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=myl3na2003&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
