@@ -18,7 +18,7 @@ Olá! Sou apaixonada por transformar ideias criativas em experiências interativ
 - **Design Responsivo:** Mobile-First Design, Media Queries
 
 ### Estou Trabalhando Atualmente no Projeto AMA 
-- Projeto ANA: um site dedicado a tornar a jornada da maternidade ainda mais especial. Nossa missão é auxiliar as mães a enfrentar os desafios durante o aleitamento materno, destacando-se na promoção de doações para bancos de leite e conectando-as a especialistas em amamentação através da nossa plataforma. A concepção da AMA foi cuidadosamente elaborada com o objetivo de oferecer um ambiente seguro e acolhedor para mães e responsáveis que enfrentam desafios na amamentação.
+- Projeto AMA: um site dedicado a tornar a jornada da maternidade ainda mais especial. Nossa missão é auxiliar as mães a enfrentar os desafios durante o aleitamento materno, destacando-se na promoção de doações para bancos de leite e conectando-as a especialistas em amamentação através da nossa plataforma. A concepção da AMA foi cuidadosamente elaborada com o objetivo de oferecer um ambiente seguro e acolhedor para mães e responsáveis que enfrentam desafios na amamentação.
 
 ### Como Entrar Em Contato Comigo
 - LinkedIn: [Mylena Santos](http://www.linkedin.com/in/mylena-santos-755b43244)
