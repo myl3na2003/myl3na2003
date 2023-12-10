@@ -25,10 +25,10 @@ Olá! Sou apaixonada por transformar ideias criativas em experiências interativ
 - E-mail: seuemail@example.com
 
 ### Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=myl3na2003&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 ### Linguagens Mais Utilizadas
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&hide_title=true&hide_border=true&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=myl3na2003&layout=compact&hide_title=true&hide_border=true&theme=radical)
 
 
 
